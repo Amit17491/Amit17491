@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit17491
-- 👀 I’m interested in ...cyber security
+- 👀 I’m interested in ..coding 
 - 🌱 I’m currently learning ...programming
 - 💞️ I’m looking to collaborate on ...python projects
 - 📫 How to reach me ...on my mail shuklaamit7180@gmail.com
