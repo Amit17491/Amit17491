@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit shukla</h1>
-<h3 align="center">An Automation developer | DevOps Engineer</h3>
+<h3 align="center"> Automation developer | DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **Python, Golang, Mysql**
 
-- 📫 How to reach me **amitk2shukla@gmai.com**
+- 📫 How to reach me **amitk2shukla@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CMpydFn8mKH_gYFqEcu3l4g4hFhn5fts/view?usp=sharing](https://drive.google.com/file/d/1CMpydFn8mKH_gYFqEcu3l4g4hFhn5fts/view?usp=sharing)
 
